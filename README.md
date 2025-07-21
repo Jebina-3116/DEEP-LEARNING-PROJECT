@@ -107,4 +107,6 @@ Visualizing predictions and evaluating model performance.
 This project successfully demonstrates an end-to-end image classification pipeline using a small, manually created dataset. It mimics a real-world deep learning scenario involving data collection, preprocessing, training, and evaluation. The experience gained here is highly transferable to larger classification problems and forms a strong foundation for future projects involving more advanced computer vision tasks.
 
 OUTPUT:
+<img width="1346" height="538" alt="Image" src="https://github.com/user-attachments/assets/1ca294a6-8b86-4315-b8bc-a0b554d20f86" />
 
+<img width="571" height="556" alt="Image" src="https://github.com/user-attachments/assets/ab2ad307-2f57-4339-b313-e2e641872ef1" />
